@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SwifLearn</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Profile</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="schedule_trail_class">Schedule a Trial Class</string>
+    <string name="upcoming_classes">Upcoming Live Classes</string>
+    <string name="past_classes">Your Past Classes</string>
+    <string name="praoctice">Practice Classes</string>
+    <string name="explore">Explore Courses</string>
+    <string name="pricing">Pricing</string>
+    <string name="blog">Blogs</string>
+    <string name="faqs">FAQs</string>
+
+    <string-array name="Subjects">
+        <item>Science</item>
+        <item>Maths</item>
+        <item>English</item>
+    </string-array>
+</resources>
